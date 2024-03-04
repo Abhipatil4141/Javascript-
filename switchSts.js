@@ -1,4 +1,4 @@
-// switch statement 
+//! switch statement 
 var day = "nday";
 
 switch (day){
